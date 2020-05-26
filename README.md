@@ -18,3 +18,8 @@ Exercícios Resolvidos de Python do Curso em Vídeo
 * EX015 - Aluguel de Carros
 * EX016 - Quebrando um número
 * EX017 - Catetos e Hipotenusa
+* EX018 - Seno, Cosseno e Tangente
+* EX019 - Sorteando um item na lista
+* EX020 - Sorteando uma ordem na lista
+* EX021 - Tocando um MP3
+* EX022 - Analisador de Textos
