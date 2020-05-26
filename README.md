@@ -1,5 +1,5 @@
 # PYTHON
-Exercícios Resolvidos de Python do Curso em Vídeo
+Lista de Exercícios Resolvidos de Python do Curso em Vídeo
 
 * EX001 - Deixando tudo pronto
 * EX002 - Respondendo ao Usuário
