@@ -1,7 +1,7 @@
 # PYTHON
 Exercícios Resolvidos de Python do Curso em Vídeo
 
-EX001 - Deixando tudo pronto
+* EX001 - Deixando tudo pronto
 EX002 - Respondendo ao Usuário
 EX003 - Somando dois números
 EX004 - Dissecando uma Variável
