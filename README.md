@@ -23,3 +23,6 @@ Lista de Exercícios Resolvidos de Python do Curso em Vídeo
 * EX020 - Sorteando uma ordem na lista
 * EX021 - Tocando um MP3
 * EX022 - Analisador de Textos
+* EX023 - Separando dígitos de um número
+* EX024 - Verificando as primeiras letras de um texto
+* EX025 - Procurando uma string dentro de outra
